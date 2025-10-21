@@ -7,7 +7,6 @@ A Minecraft plugin which integrate of **Spring Framework** with **Paper/Spigot**
 - **Spring Framework Integration** - Full Spring context running inside a Bukkit plugin
 - **Spring Data JPA** - Repository pattern with automatic query generation
 - **H2 Database** - Embedded database for persistent storage
-- **Player Coin System** - Example feature tracking player coins
 - **Transaction Management** - Proper ACID transactions with `@Transactional`
 
 ## Getting Started
