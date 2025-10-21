@@ -1,0 +1,4 @@
+name: mc-spring
+version: '1.0'
+main: fr.corentin.mcSpring.MCSpring
+api-version: '1.20'
